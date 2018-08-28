@@ -1,0 +1,10 @@
+{
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "name": "The Inventions and Writings of Nikola Tesla",
+  "type": "text"
+}
