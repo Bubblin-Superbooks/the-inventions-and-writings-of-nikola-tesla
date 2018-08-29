@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "The Inventions and Writings of Nikola Tesla",
-  "type": "text"
+  "name": "The Inventions, Researches and Writings of Nikola Tesla",
+  "type": "text",
+  "book_id": 641
 }
